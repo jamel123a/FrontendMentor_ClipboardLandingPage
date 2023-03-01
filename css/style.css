@@ -144,7 +144,7 @@ header{
     background-image: url(../images/bg-header-desktop.png);
     background-repeat: no-repeat;
     background-size: 100%;
-    min-height: 100dvh;    
+    min-height: 100bvh;    
 }
 
  .section img{
